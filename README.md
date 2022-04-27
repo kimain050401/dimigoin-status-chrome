@@ -10,7 +10,7 @@
 ![Introduce Image](introduce-image.png)
 
 ## 설치 방법
-[가장 최신 릴리즈](https://github.com/kimain050401/dimigoin-status-chrome/releases/latest)에서 하단의 `dimigoin-status.crx`를 눌러서 다운받은 후 실행하면 자동으로 크롬 확장 프로그램에 추가됩니다.
+[가장 최신 릴리즈](https://github.com/kimain050401/dimigoin-status-chrome/releases/latest)에서 하단의 `dimigoin-status-1.0.0.zip`를 눌러서 다운받은 후 실행하면 자동으로 크롬 확장 프로그램에 추가됩니다.
 
 ## 라이센스
 Dimigoin Status 크롬 확장 프로그램은 `GNU General Public License v3.0` 라이센스에 따라 사용하실 수 있습니다.  

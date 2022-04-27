@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="kr">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <script src="popup.js"></script>
+    <style>
+        html, body{
+            margin: 0;
+            width: 250px;
+            text-align: center;
+        }
+        .friendly_name{
+            margin-left: 5px;
+        }
+        .circle{
+            font-size: 20px;
+            line-height: 10px;
+            vertical-align: -25%;
+        }
+        .s0, .s1{
+            color: gray;
+        }
+        .s2{
+            color: green;
+        }
+        .s8, .s9{
+            color: red;
+        }
+        @-webkit-keyframes spinner-border{
+            to{
+                transform: rotate(360deg);
+            }
+        }
+        @keyframes spinner-border{
+            to{
+                transform: rotate(360deg);
+            }
+        }
+        .spinner-border{
+            display: inline-block;
+            width: 2rem;
+            height: 2rem;
+            vertical-align: -0.125em;
+            border: 0.25em solid currentColor;
+            border-right-color: transparent;
+            border-radius: 50%;
+            -webkit-animation: 0.75s linear infinite spinner-border;
+            animation: 0.75s linear infinite spinner-border;
+        }
+        .spinner-border-sm{
+            width: 1rem;
+            height: 1rem;
+            border-width: 0.2em;
+        }
+        @media (prefers-reduced-motion: reduce){
+            .spinner-border, .spinner-grow{
+                -webkit-animation-duration: 1.5s;
+                animation-duration: 1.5s;
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1>Dimigoin Status</h1>
+    <div id="monitor" style="text-align: left; display: inline-block; z-index: 20;">
+        <div id="circlebox" style="display: none;">
+            <a class='circle' id="circle">⦁</a><a class="friendly_name" style="font-weight: bold;">Dimigo Intranet All Service</a><br>
+        </div>
+        <div id="spinner" class="spinner-border" role="status"></div>
+    </div>
+    <br><br>
+    <div class="printNo" style="position: fixed; bottom: -10px; z-index: -1;">
+        <img src="dimigo-background.svg" width="100%">
+    </div>
+</body>
+</html>

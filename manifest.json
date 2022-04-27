@@ -1,0 +1,21 @@
+{
+  "name": "Dimigoin Status",
+  "description": "디미고인 및 디미고라이프의 운영 상태를 크롬 확장 프로그램으로 실시간 확인할 수 있습니다.",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup.html",
+    "defualt_icon": {
+      "16": "dinlogo.png",
+      "32": "dinlogo.png",
+      "48": "dinlogo.png",
+      "128": "dinlogo.png"
+    }
+  },
+  "icons": {
+    "16": "dinlogo.png",
+    "32": "dinlogo.png",
+    "48": "dinlogo.png",
+    "128": "dinlogo.png"
+  }
+}

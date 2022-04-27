@@ -1,6 +1,6 @@
 # Dimigoin Status 크롬 확장 프로그램
 [![Releases](https://img.shields.io/badge/release-v1.0.0-blue?style=flat)](https://github.com/kimain050401/dimigoin-status-chrome/releases/latest)
-[![Platform](https://img.shields.io/badge/platform-Chrome-green.svg?style=flat)](https://github.com/kimain050401/dimigoin-status-chrome)
+[![Platform](https://img.shields.io/badge/platform-ChromeWebStore-green.svg?style=flat)](https://github.com/kimain050401/dimigoin-status-chrome)
 [![GPL 3.0 License](https://img.shields.io/badge/license-GPL--3.0-lightgrey?style=flat)](https://github.com/kimain050401/dimigoin-status-chrome/blob/main/LICENSE)
 
 ## 소개

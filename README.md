@@ -1,6 +1,6 @@
 # Dimigoin Status 크롬 확장 프로그램
 [![Releases](https://img.shields.io/badge/release-v1.0.0-blue?style=flat)](https://github.com/kimain050401/dimigoin-status-chrome/releases/latest)
-[![Platform](https://img.shields.io/badge/platform-ChromeWebStore-green.svg?style=flat)](https://github.com/kimain050401/dimigoin-status-chrome)
+[![Platform](https://img.shields.io/badge/platform-ChromeWebStore-green.svg?style=flat)](https://chrome.google.com/webstore/detail/eblbmgnenioboppincageabnjmehifgb)
 [![GPL 3.0 License](https://img.shields.io/badge/license-GPL--3.0-lightgrey?style=flat)](https://github.com/kimain050401/dimigoin-status-chrome/blob/main/LICENSE)
 
 ## 소개
@@ -10,7 +10,7 @@
 ![Introduce Image](introduce-image.png)
 
 ## 설치 방법
-[가장 최신 릴리즈](https://github.com/kimain050401/dimigoin-status-chrome/releases/latest)에서 하단의 `dimigoin-status-1.0.0.zip`를 눌러서 다운받은 후 실행하면 자동으로 크롬 확장 프로그램에 추가됩니다.
+[Chrome Web Store](https://chrome.google.com/webstore/detail/eblbmgnenioboppincageabnjmehifgb)에서 다운받고 설치하실 수 있습니다.
 
 ## 라이센스
 Dimigoin Status 크롬 확장 프로그램은 `GNU General Public License v3.0` 라이센스에 따라 사용하실 수 있습니다.  
